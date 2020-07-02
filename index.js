@@ -5,7 +5,7 @@ function testFunc() {
 }
 
 function superbowlWin(arr){
-  let result = "undefined"
+  let result = undefined
 
    result = arr.find(object => object.result === "W")
 
